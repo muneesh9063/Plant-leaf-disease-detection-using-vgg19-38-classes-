@@ -1,0 +1,41 @@
+    <p>There are 38 classes of diseases that this model can predict:</p>
+    <p>
+      1.  apple scab<br>
+      2.  apple black rot<br>
+      3.  cedar apple rust<br>
+      4.  apple healthy<br>
+      5.  blueberry healthy<br>
+      6.  cherry powdery mildew<br>
+      7.  cherry healthy<br>
+      8.  corn cercospora leaf gray leaf spot<br>
+      9.  corn common rust <br>
+      10. corn healthy <br>
+      11. grape black measles<br>
+      12. grape leaf blight<br>
+      13. grape healthy<br>
+      14. orange haunglongbing<br>
+      15. peach bacterial spot<br>
+      16. peach healthy<br>
+      17. pepper bell Bacterial spot<br>
+      18. pepper bell healthy<br>
+      19. potato early blight<br>
+      20. potato late blight<br>
+      21. potato healthy<br>
+      22. raspberry healthy<br>
+      23. soybean healthy<br>
+      24. squash powdery mildew<br>
+      25. strawberry leaf scotch<br>
+      26. strawberry healthy<br>
+      27. tomato bacterial spot<br>
+      28. tomato early blight<br>
+      29. tomato late blight<br>
+      30. tomato leaf mold<br>
+      31. tomato septoria leaf spot<br>
+      32. tomato spider mites two spotted spider mite<br>
+      33. tomato target spot<br>
+      34. Tomato yellow leaf curl virus<br>
+      35. tomato mosaic virus<br>
+      36. tomato healthy<br>
+      37. corn northern leaf blight<br>
+      38. grape black rot
+    </p>
